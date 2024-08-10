@@ -5,6 +5,10 @@ public class ReverseString {
 		System.out.println("practice");
 		System.out.println("added new code");
 		
+		/// writing code after pulling
+		
+		
+		System.out.println("after pulling");
 	}
 
 }
