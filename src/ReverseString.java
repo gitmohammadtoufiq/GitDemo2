@@ -9,6 +9,7 @@ public class ReverseString {
 		
 		
 		System.out.println("after pulling");
+		System.out.println("after 2nd pulling");
 	}
 
 }
